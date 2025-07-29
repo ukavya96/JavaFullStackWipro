@@ -1,4 +1,5 @@
-package project1;
+package Project_1_Box_Dimensions_and_Calculator;
+
 
 public class Calculator {
     static int powerInt(int num1, int num2) {
@@ -17,4 +18,3 @@ public class Calculator {
         System.out.println("2.5^3 (double) = " + result2);
     }
 }
-	
