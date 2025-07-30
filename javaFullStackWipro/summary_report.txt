@@ -1,0 +1,2 @@
+Employee: E1234, Date: 2025-07-30, Duration: 8h 18m
+Employee: E7890, Date: 2025-07-30, Duration: 8h 52m
